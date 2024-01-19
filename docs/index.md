@@ -20,7 +20,7 @@ In this new para we create a numbered list using numbers.
 1. first item
 2. second item
 
-This shorthand is called Markdown. It is a general text format used almost everywhere on the web. Google about it to learn more.
+This shorthand is called Markdown. It is a general text format used almost everywhere on the web. [Google](https://www.google.com) (see how I made this link) about it to learn more.
 
 You can write code by using triple-ticks:
 
@@ -28,3 +28,9 @@ You can write code by using triple-ticks:
 def add_two(x, y):
   return x + y
 ```
+
+Here is an image:
+
+![cute dog](https://imgur.com/gallery/eKLHiTV)
+
+This page illustrates low code principles. In exchange for giving up pixel-level control of the page you can make web pages easily through a simple text file.
